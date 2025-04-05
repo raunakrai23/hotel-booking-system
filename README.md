@@ -29,16 +29,7 @@ Open the link "http://localhost/Hotel-Management-System/"
 Now register and login
 ```
 
-## Requirements Linux[Rocky Linux 9]:
 
-```sh
-1 Install dnf package manager
-2 Clone this repository in your home directory
-3 Enable execute permissions on setup.sh `chmod 755 setup.sh`
-4 Login as root or use `sudo su - root`
-5 Run setup.sh `./setup.sh`
-Open the link "http://localhost/Hotel-Management-System/"
-Now register and login
 ```
 
 
